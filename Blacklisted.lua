@@ -5,6 +5,7 @@ local blacklistedClients = {
     {Id = "e86c0b9e-b3ca-4649-91d1-3dc9810a49f1", Reason = "PHANTASM BAN\nDragon told me to."},
     {Id = "CD901759-23DC-49DC-8FC9-C4697E959BF1", Reason = "PHANTASM BAN\nLoser"},
     {Id = "12a39237-114d-4fb0-873e-d82703e2f4ed", Reason = "PHANTASM BAN\nShitty scripts + you're a skid + you're immature + your ego is too high + goldenheads trash + you leaked my friends early access script + fuck you"},
+    {Id = "8c9fb57c-c325-4d62-a7eb-9bd19c49b47e", Reason = "PHANTASM BAN\nYou're not allowed to use this script. skid."},
 }
 
 local blacklistedHWIDs = {
@@ -14,6 +15,7 @@ local blacklistedHWIDs = {
     {Id = "3fceb738e2a5791a904bdae020e16e13d6b426361ad921aeb41e8cabcb2c5c9e", Reason = "PHANTASM BAN\nDragon told me to."},
     {Id = "64633966333464653535643732346565663866636531323533323739613332636562323862626435383435333438356365636263646139636336623032346562", Reason = "PHANTASM BAN\nLoser"},
     {Id = "4468b632d9204dde6f3118de1f29b9d1affea7f0840ce01c40583393fc229b07", Reason = "PHANTASM BAN\nShitty scripts + you're a skid + you're immature + your ego is too high + goldenheads trash + you leaked my friends early access script + fuck you"},
+    {Id = "c30f1d086e7aaeaa8ec95ea89e83fcda09cb25509dda6c7c9b7480cbca683b4a", Reason = "PHANTASM BAN\nYou're not allowed to use this script. skid."},
 }
 
 --what are you doing here?
