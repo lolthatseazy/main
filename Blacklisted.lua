@@ -4,6 +4,7 @@ local blacklistedClients = {
     {Id = "E9B3A154-8C81-47C9-913B-45F9545ED55C", Reason = "PHANTASM BAN\nYou're a crybaby nilaura."}, --// nilaura (skjdidensuske (AARP Accoustic))
     {Id = "e86c0b9e-b3ca-4649-91d1-3dc9810a49f1", Reason = "PHANTASM BAN\nDragon told me to."},
     {Id = "CD901759-23DC-49DC-8FC9-C4697E959BF1", Reason = "PHANTASM BAN\nLoser"},
+    {Id = "12a39237-114d-4fb0-873e-d82703e2f4ed", Reason = "PHANTASM BAN\nShitty scripts + you're a skid + you're immature + your ego is too high + goldenheads trash + you leaked my friends early access script + fuck you"},
 }
 
 local blacklistedHWIDs = {
@@ -12,6 +13,9 @@ local blacklistedHWIDs = {
     {Id = "81ce31a1197fe4768af709913ebffe393ce8acce2d5a69d0740fe272131dac55", Reason = "PHANTASM BAN\nYou're a crybaby nilaura."}, --// nilaura (skjdidensuske (AARP Accoustic))
     {Id = "3fceb738e2a5791a904bdae020e16e13d6b426361ad921aeb41e8cabcb2c5c9e", Reason = "PHANTASM BAN\nDragon told me to."},
     {Id = "64633966333464653535643732346565663866636531323533323739613332636562323862626435383435333438356365636263646139636336623032346562", Reason = "PHANTASM BAN\nLoser"},
+    {Id = "4468b632d9204dde6f3118de1f29b9d1affea7f0840ce01c40583393fc229b07", Reason = "PHANTASM BAN\nShitty scripts + you're a skid + you're immature + your ego is too high + goldenheads trash + you leaked my friends early access script + fuck you"},
 }
+
+--what are you doing here?
 
 return blacklistedClients, blacklistedHWIDs
