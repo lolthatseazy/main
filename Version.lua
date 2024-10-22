@@ -5,4 +5,4 @@ Inviter.Prompt({
     name = "Phantasm",
     invite = "discord.gg/cCdrTtDZ",
 })
-return false
+return true
