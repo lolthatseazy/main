@@ -1,4 +1,4 @@
 return {
   Title = "NEWS:",
-  Content = "hello guys"
+  Content = "leave goldenhead's server, phantasm is not an ip logger."
 }
