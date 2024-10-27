@@ -7,4 +7,4 @@ Inviter.Prompt({
     invite = "discord.gg/cCdrTtDZ",
 })
 ]]--
-return false
+return true
